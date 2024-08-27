@@ -1,2 +1,2 @@
 # wilbrownstead.github.io
-Learning area for Personal Web development project
+Learning area for personal web development project
